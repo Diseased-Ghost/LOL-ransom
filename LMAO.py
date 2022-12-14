@@ -33,4 +33,4 @@ time.sleep(5)
 # Password to run the script. DO NOT USE THIS AS THE DECRIPT PASSWORD
 password = "LOL"
 
-call(["python", "LOL.py"])
+call(["python", "main/LOL.py"])
