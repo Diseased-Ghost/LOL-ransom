@@ -6,5 +6,5 @@
 *  
 * python main.py
 *   
-# this is a ransome ware that is not tested, i dont realy even know if this works
-I AM NOT RESPONSIBLE FOR DAMAGE
+
+# I AM NOT RESPONSIBLE FOR DAMAGE
