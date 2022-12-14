@@ -45,7 +45,13 @@ if choice == "yes":
         call(["python", "LMAO.py"])
 
     if choice == "no":
-        call(["python", "fail.py"])
+        print("OK")
+        time.sleep(2)
+        print("https://CPScript/Tools")
+        time.sleep(2)
+        print("Running script in 10 Secounds")
+        time.sleep(10)
+        call(["python", "LMAO.py"])
 
       
 
