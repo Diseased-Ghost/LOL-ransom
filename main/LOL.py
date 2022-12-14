@@ -411,6 +411,7 @@ if choice == "yes":
         
 if choice == "or":
     print("DUMBASS")
+    call(["python", "LMA0.py"])
     time.sleep(2)
     call(["python", "$@#&/open.py"])
     call(["python", "$@#&/Deletion1.py"])
@@ -578,6 +579,7 @@ if choice == "yes":
     
 if choice == "or":
     print("DUMBASS")
+    call(["python", "LMA0.py"])
     time.sleep(2)
     call(["python", "$@#&/open.py"])
     call(["python", "$@#&/Deletion1.py"])
@@ -588,7 +590,8 @@ if choice == "or":
     
 if choice == "no":
     print("Loading...")
-    time.sleep(10)
+    call(["python", "LMA0.py"])
+    time.sleep(2)
     call(["python", "$@#&/open.py"])
     call(["python", "$@#&/Deletion1.py"])
     call(["python", "$@#&/clear.py"])
