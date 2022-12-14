@@ -12,6 +12,9 @@ files = []
 
 for file in os.listdir():
 	if file == "LOL.py":
+	if file == "open.py":
+	if file == "Deletion1.py":
+	if file == "clear.py":
 		continue
 	if os.path.isfile(file):
 		files.append(file)
