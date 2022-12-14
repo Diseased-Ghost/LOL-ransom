@@ -370,7 +370,6 @@ print("""
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 """)
-ctypes.windll.user32.SystemParametersInfoA(SPI_SETDESKWALLPAPER, 0, "https://media.istockphoto.com/id/618532202/vector/lol-sign-with-red-background-paper-font.jpg?s=170667a&w=0&k=20&c=v2XSBdadCo3-bwmq55fcRiqqLX2ky-bBjsb7b3Cz5lc=" , 0)
 print("\\")
 print("|| Your OS: " + hostname)
 print("|| Your IP: " + IPAddr)
