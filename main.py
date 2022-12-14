@@ -1,5 +1,8 @@
 import time
 import os
+print("Install Script?")
+time.sleep(2)
+print("yes / no")
 
 choice = input("")
 
