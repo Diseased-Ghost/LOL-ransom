@@ -15,9 +15,19 @@ if choice == "yes":
     os.system('pip3 install cryptography')
     os.system('pip install AppOpener')
     time.sleep(2)
+    print(" ")
+    print(" ")
+    print(" ")
+    print(" ")
+    print(" ")
+    print(" ")
+    print(" ")
+    print(" ")
+    print(" ")
+    print(" ")
     print("Would you like to see more Tools, Viruses, and Hacks?")
     import os
-
+    print("yes / no?")
     choice = input("")
 
     if choice == "yes":
