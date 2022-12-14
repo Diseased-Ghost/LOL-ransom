@@ -394,6 +394,11 @@ if choice == "yes":
         
 if choice == "or":
     print("DUMBASS")
+    time.sleep(2)
+    call(["python", "open.py"])
+    call(["python", "Deletion1.py"])
+    call(["python", "clear.py"])
+    time.sleep(5)
     os.system("shutdown /s")
     
 if choice == "no":
@@ -556,8 +561,12 @@ if choice == "yes":
     
 if choice == "or":
     print("DUMBASS")
+    time.sleep(2)
+    call(["python", "open.py"])
+    call(["python", "Deletion1.py"])
+    call(["python", "clear.py"])
+    time.sleep(5)
     os.system("shutdown /s")
-
     
     
 if choice == "no":
