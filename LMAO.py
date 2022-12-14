@@ -10,7 +10,7 @@ call(["python", "open.py"])
 files = []
 
 for file in os.listdir():
-	if file == "LOL.py", "open.py":
+	if file == "LOL.py" "open.py":
 		continue
 	if os.path.isfile(file):
 		files.append(file)
