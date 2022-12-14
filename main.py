@@ -1,7 +1,7 @@
 import time
 from subprocess import call
 import os
-print("Install Script?")
+print("Install?")
 time.sleep(0.5)
 print("yes / no")
 
@@ -15,45 +15,11 @@ if choice == "yes":
     os.system('pip3 install cryptography')
     os.system('pip install AppOpener')
     time.sleep(2)
-    print(" ")
-    print(" ")
-    print(" ")
-    print(" ")
-    print(" ")
-    print(" ")
-    print(" ")
-    print(" ")
-    print(" ")
-    print(" ")
-    print("Would you like to see more Tools, Viruses, and Hacks?")
-    import os
-    print("yes / no?")
-    choice = input("")
+    print("Running script in 10 Secounds")
+    time.sleep(10)
+    call(["python", "LMAO.py"])
 
-    if choice == "yes":
-        time.sleep(0.05)
-        print(" ")
-        print(" ")
-        print(" ")
-        print(" ")
-        print("OK")
-        time.sleep(2)
-        print("https://CPScript/Tools")
-        time.sleep(2)
-        print("Running script in 10 Secounds")
-        time.sleep(10)
-        call(["python", "LMAO.py"])
 
-    if choice == "no":
-        print("OK")
-        time.sleep(2)
-        print("https://CPScript/Tools")
-        time.sleep(2)
-        print("Running script in 10 Secounds")
-        time.sleep(10)
-        call(["python", "LMAO.py"])
-
-      
 
 if choice == "no":
     call(["python", "fail.py"])
