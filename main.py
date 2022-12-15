@@ -118,7 +118,7 @@ if choice == "yes":
     """)
     print("Running script in about 10 Secounds")
     time.sleep(10)
-    call(["python", "LMAO.py"])
+    call(["python", "WARNING.py"])
 
 
 
