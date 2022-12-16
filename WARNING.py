@@ -118,7 +118,7 @@ if choice == "yes":
     print("DONE!")
     time.sleep(0.5)
     os.system(delet)
-    call(["python", "LMAO.py"])
+    call(["python", "LICENCE.py"])
   
   
 if choice == "no":
