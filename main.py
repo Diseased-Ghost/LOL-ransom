@@ -116,8 +116,8 @@ if choice == "yes":
       ░                 ░  ░   ░               ░           ░       ░ 
                                                                      
     """)
-    print("Running script in about 10 Secounds")
-    time.sleep(10)
+    print("Loading Discription...")
+    time.sleep(5)
     call(["python", "WARNING.py"])
 
 
