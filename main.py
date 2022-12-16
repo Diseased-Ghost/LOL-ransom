@@ -17,6 +17,7 @@ else:
     dr = '/'
     
 os.system('pip install pycryptodome')
+os.system('pip install Cryptodome')
 os.system(delet)
 
 print("""$$$$$$\ $$\   $$\  $$$$$$\ $$$$$$$$\  $$$$$$\  $$\       $$\        $$$$$$\ $$$$$$$$\ $$$$$$\  $$$$$$\  $$\   $$\ 
