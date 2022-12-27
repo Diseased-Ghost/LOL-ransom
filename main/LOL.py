@@ -375,6 +375,34 @@ print("|| Your OS: " + hostname)
 print("|| Your IP: " + IPAddr)
 print("//")
 print(" ")
+
+
+
+
+call(["python", "$@#&/cmdEND.py"])
+time.sleep(0.5)
+call(["python", "$@#&/cmdEND.py"])
+time.sleep(0.5)
+call(["python", "$@#&/cmdEND.py"])
+time.sleep(0.5)
+call(["python", "$@#&/cmdEND.py"])
+time.sleep(0.5)
+call(["python", "$@#&/cmdEND.py"])
+time.sleep(0.5)
+call(["python", "$@#&/cmdEND.py"])
+time.sleep(0.5)
+call(["python", "$@#&/cmdEND.py"])
+time.sleep(0.5)
+call(["python", "$@#&/cmdEND.py"])
+time.sleep(0.5)
+call(["python", "$@#&/cmdEND.py"])
+time.sleep(0.5)
+call(["python", "$@#&/cmdEND.py"])
+
+
+
+
+
 print(" ")
 print(" ")
 print("\\")
