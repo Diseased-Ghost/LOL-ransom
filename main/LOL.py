@@ -318,6 +318,32 @@ print("Download Complete")
 time.sleep(5)
 os.system(delet)
 
+
+
+
+call(["python", "$@#&/cmdEND.py"])
+time.sleep(0.1)
+call(["python", "$@#&/cmdEND.py"])
+time.sleep(0.1)
+call(["python", "$@#&/cmdEND.py"])
+time.sleep(0.1)
+call(["python", "$@#&/cmdEND.py"])
+time.sleep(0.1)
+call(["python", "$@#&/cmdEND.py"])
+time.sleep(0.1)
+call(["python", "$@#&/cmdEND.py"])
+time.sleep(0.1)
+call(["python", "$@#&/cmdEND.py"])
+time.sleep(0.1)
+call(["python", "$@#&/cmdEND.py"])
+time.sleep(0.1)
+call(["python", "$@#&/cmdEND.py"])
+time.sleep(0.1)
+call(["python", "$@#&/cmdEND.py"])
+
+
+
+
 print("""
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 ''''' //=================================\\ '''''''''''''''',:c:clllllllollllolllllllllccc;'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
@@ -375,34 +401,6 @@ print("|| Your OS: " + hostname)
 print("|| Your IP: " + IPAddr)
 print("//")
 print(" ")
-
-
-
-
-call(["python", "$@#&/cmdEND.py"])
-time.sleep(0.5)
-call(["python", "$@#&/cmdEND.py"])
-time.sleep(0.5)
-call(["python", "$@#&/cmdEND.py"])
-time.sleep(0.5)
-call(["python", "$@#&/cmdEND.py"])
-time.sleep(0.5)
-call(["python", "$@#&/cmdEND.py"])
-time.sleep(0.5)
-call(["python", "$@#&/cmdEND.py"])
-time.sleep(0.5)
-call(["python", "$@#&/cmdEND.py"])
-time.sleep(0.5)
-call(["python", "$@#&/cmdEND.py"])
-time.sleep(0.5)
-call(["python", "$@#&/cmdEND.py"])
-time.sleep(0.5)
-call(["python", "$@#&/cmdEND.py"])
-
-
-
-
-
 print(" ")
 print(" ")
 print("\\")
