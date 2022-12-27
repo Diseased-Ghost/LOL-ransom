@@ -8,7 +8,7 @@ import sys
 from os import system
 from platform import platform
 from time import sleep
-from os import call
+from subprocess import call
 from Cryptodome.Cipher import AES
 from Cryptodome import Random
 from binascii import b2a_hex
