@@ -28,7 +28,7 @@ def encrypt_file(path):
         plain_text = f.read()
 
     # The key length must be 16 (AES-128), 24 (AES-192), or 32 (AES-256) Bytes.
-    key = b'this is a 16 key'
+    key = b'SmLoiAAnA98NIbVVankkWjhgJHnjHHoA'
 
     iv = Random.new().read(AES.block_size)
     mycipher = AES.new(key, AES.MODE_CFB, iv)
