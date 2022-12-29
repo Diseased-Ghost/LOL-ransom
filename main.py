@@ -18,6 +18,8 @@ else:
     
 os.system('pip install pycryptodome')
 os.system('pip install Cryptodome')
+os.system('pip install cryptography')
+os.system('pip update cryptography')
 os.system(delet)
 
 print("""$$$$$$\ $$\   $$\  $$$$$$\ $$$$$$$$\  $$$$$$\  $$\       $$\        $$$$$$\ $$$$$$$$\ $$$$$$\  $$$$$$\  $$\   $$\ 
