@@ -5,6 +5,7 @@ import socket
 import requests,re,os
 import time
 import sys
+import Cyptodome
 from os import system
 from platform import platform
 from time import sleep
