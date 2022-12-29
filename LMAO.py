@@ -1,5 +1,7 @@
 import os
 import time
+import cryptodome
+import Cryptodome
 from cryptography.fernet import Fernet
 from subprocess import call
 from Cryptodome.Cipher import AES
