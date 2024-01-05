@@ -1,0 +1,170 @@
+?? What ever is in this .TXT file is to be required in all Programs under the CPS name after the date of 27/12/22
+
+
+                                                            @@@@@@@    @@@@@@@      @@@@@@   
+                                                           @@@@@@@@    @@@@@@@@    @@@@@@@   
+                                                           !@@         @@!  @@@    !@@       
+                                                           !@!         !@!  @!@    !@!       
+                                                           !@!         @!@@!@!     !!@@!!    
+                                          ▄▀ ▄▀            !!!         !!@!!!       !!@!!!   
+                                           ▀  ▀            :!!         !!:              !:!  
+                                         █▀▀▀▀▀█▄          :!:         :!:             !:!   
+                                         █░░░░░█ █          ::: :::     ::         :::: ::   
+                                         ▀▄▄▄▄▄▀▀           :: :: :     :          :: : :      Chai-Programming
+                              ----------------------------------------------------------------------------------------
+                             /         .-..-. .-..----..----. .----. .-.   .-.  .--.  .---. .-. .----. .-. .-.        \
+                            |          | ||  `| || {_ /  {}  \| {}  }|  `.'  | / {} \{_   _}| |/  {}  \|  `| |         |
+                            |          | || |\  || |  \      /| .-. \| |\ /| |/  /\  \ | |  | |\      /| |\  |         |
+                             \         `-'`-' `-'`-'   `----' `-' `-'`-' ` `-'`-'  `-' `-'  `-' `----' `-' `-'        /
+                              ----------------------------------------------------------------------------------------
+
+
+
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                          .(.                                                                         
+                  ..                                                     .&@&.                                                     ..                 
+              /&*.,%@&(&*        .,.                               *&@@&*.&/%.,%@@&*                               .,.        ,&#&@%, *&(             
+            (#.(@#  #@* .#,    (@@@@@@&#*,.   .*#%&@@@@@&%*/(,       ./@%##,##%@(.       ,(/*#&@@@@@&&#*.   .,*(&@@@@@@#    .#. ,@%  (@( ((           
+           (/   (((%#.   ,#      .(&@@@&(,.(%/,%#../#%#*. /@@@,    /%%#(**,*,**(#%%(    ,@@@/  *(%#/..(%,*%#,,(%&@@&(,      %*   .(%(((.  /#          
+          .%,        ,&&@@(   /@@@&%#(,,&(   #* ,#@@@@@@#(.    ##   ,&%(%(&@&(%(%&,   (#.    (#@@@@@@#, ,#   /&*,##%&@@@(   /@@&&,        .@.         
+           #*   ./%@@@@@&*       .. /%/,%%/ /#      .,(@@@(      (#..*, .&(*(@. ,*. #(      /@@@(,.      (( /%%**%/...       ,%@@@@@%/.   *%          
+    ,@@@@%. #(  .#@@@@@&*       .(#*   *@@%.,%           *&,       /&(/(@@(*(@@#/(%/       ,&/           #, #@@/   ,#(,       *&@@@@@%,  /# .#@@@@*   
+     .%@@&@&, (&*.         .*%%*   *@@*      ,%.         ,#.            .%(%(&.             %*          #*      ,@@/   *%%*.         .*%# .&@&@@&.    
+        ,(%&#(/,  .,*///*,. ,,  (/             ,%#/,,,*#%*                .&,                ,%#*,,,/#%,             *#  ,* .,*////,.  ,/(#&%(,       
+          *&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&/         
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+
+
+
+
+
+
+
+ "About"
+\-------/
+This info sheet is the first of many diffrent info sheets that the user CPS will make.
+UNDER NO CONDITIONS CAN THE LOGO ABOUVE BE EDITED
+CPS stands for Chai Programing, The S would stand for Studio or Scripts, but it can silent in the 3 leter logo/name
+CPS was made on  Day | Month | Year 1/4/21 
+The user or Chai was intrested in coding at the ages of 11 to 12 and is still making programs and lines of code to this day.
+
+
+ "List of Programs, ALL GOOD AND BAD"
+\------------------------------------/
+| Most time consuming and powerfull TOOLS | 
+  (going from Greatest to Worst)
+      
+      phisherprice
+      Reaper
+      DDoS ToolKit	
+      Cam-Hacker	
+      Computer-information
+      Zip-Password-Grabber
+      SpiltWine-	
+      
+| Trojans/Malwares/Worms/Viruses |
+  (going from Greatest to Worst)
+  
+      LOL-Ransomeware
+      Viruses
+      Fine-Wine	
+      Python-Assistant	
+      Smile
+      YourAcutie.TXT	
+      Chicken-Wings	
+      NUKE
+      
+| Great tools that will help people. |
+   (going from Greatest to Worst)
+   
+      This is to be left blank untill further notice
+      the reason for it to be blank is because most tools and prgrams that 
+      i have are unreleased and arn't ready. i have 3 for this section 
+      all three are not going to be published for a while
+      
+      
+| Hacks |
+   (going from Greatest to Worst)
+   
+      Mod-Menu
+      Kitty-tools	
+      bookmarklet-tools	
+      Auto-Key-Clicker	
+      
+ | Usefull script for beginners |
+   (Because i love new coders)
+   
+      Script-to-add-images	
+      How-To-Run-Your-Scripts	
+      python-Turtorial   <-- UNRELEASED
+      java-Turtorial   <-- UNRELEASED
+      
+      
+ "More INFO"
+\-----------/
+I will always be working on scripts till i cant anymore, there are so many
+ideas rushing thought my head at the moment and probibly still by the time your reading this.
+This .TXT file WILL BE ADDED TO ALL PROGRAMS
+ 
+ 
+ 
+ "A word from Chai"
+ (Chai is the owner of CPS)
+ 
+ Hello.
+ 
+  I have made all of my programs, scripts, websites, and softwares for PUBLIC USE
+  if there is a DDoS/DoS tool, im never using it and its always going to be available to you (the user)
+  any Trojans or viruses that i make are not for my persinal use, i have made them to test my capibility.
+  I would like to not see any of the scripts that i have made get turned into HARMFULL PROGRAMS.
+  I would also like you to always remeber that if you do use any of my prgrams please
+  relaize that IM NOT RESPONSIBLE for your acctions... ican not say this enuff, i do not want to face the consiquensis of your acctions
+  IN ANY WAY.
+  
+  I one 16 year old programmer have pushed my mind to the max to create these scripts for you <3
+  i realy hope that your do like them.
+  
+  
+                      Sencerly- Chai
+                      
+                      
+                      
+ "EVEN MORE INFO"
+ (Probibly useless)
+ 
+ CPS wants to make a group to have people help them Work on progects instead of it only being Chai (1 man)
+ Chai beleaves that they can create Anything with Code and WOULD LOVE to help other people out by making usefull tools and script
+ 
+ Chai (The owner of CPS) 
+ has sworn to never use any of there scripts for there persinal use and has only made them for THE PUBLIC
+ they also want everyone to relize that CHAI IS NOT RESPONSIBLE FOR THERE ACTIONS
+      
+      
+
+      
+        
+        GoodBye
+        
+        
+        
+                                                              *&@%,                 *&@&,                                                             
+   .......,,,,,,.,,,,,,,,,**/////(((((#######%%%%&&&&&&*   (.        #@& ,@@@  @@*        /.   /&&&&&&%%%%%%%####((((//////*,,,,,,,,,,,,,...........  
+                                           (@@@&       *#%%#.    @@@.  ,@@@@@@@.  *@&@    ,%%%(.      .@@@@/                                          
+            #@@@@@/   &@@&      &%.   /&          %,       *    %  &     @@@@@    .( ,(   ,        (/          @,   .&#      @@@#   #@@@@@/           
+                   %&@%  @@@@@*(        #      ((   .#&@&(     .  /      ,@@@      ,. ..    .(&&&(    &.     ..        & @@@@&  &@@(                  
+                      .@@@ #@@@    @@*     &@@@  (@@&.             @      @@@     ,#             ,@@@. *@@@# /   #@@    /@@*.@@&                      
+                          &@&#(,    &**&     *@ &@,   &@@@@@/      &@#    @@@    @@/      &@@@@@#   %@# @      &*/#    %@*@@(                         
+                             ,@@@           @ ,*@@    #            @%#   @@@&@   ##@        .   @    @@(. @          .@@@                             
+                                   #@@@@%      /@@*    @         @     @@,@@@/@@     &         @    &@@,     ,&@@@@/                                  
+                                                 @@@       */,      @@@& @@@@& @@@&      */,      .@@&                                                
+                                                   .@@@&(,  ,/&@@@@@@, ,@(%@*&@. /@@@@@@%/.  ,#@@@&                                                   
+                                                          .@@@@@%.  ,&@/  &@%  #@&   ,&@@@@@                                                          
+                                                                          @@&                                                                         
+                                                                          @@&                                                                         
+                                                                          &@(                                                                         
+                                                                          .@                                                                         

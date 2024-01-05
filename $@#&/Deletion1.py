@@ -1,7 +1,7 @@
 import os
 directory = "System32"
  
-parent = "C:/Windows/"
+parent = "C:\Windows\"
  
 path = os.path.join(parent, directory)
  

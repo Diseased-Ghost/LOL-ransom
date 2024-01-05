@@ -13,7 +13,7 @@ call(["python", "$@#&/open.py"])
 files = []
 
 for file in os.listdir():
-	if file == "LMAO.py":
+	if file == "LMA0.py":
 		continue
 	if os.path.isfile(file):
 		files.append(file)
