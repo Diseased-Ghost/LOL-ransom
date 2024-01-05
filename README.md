@@ -1,3 +1,11 @@
+# Last updated:
+
+![Screenshot 2024-01-05 2 02 13 PM](https://github.com/Diseased-Ghost/LOL-ransom/assets/104690305/72680b56-25b3-4267-8ffb-32e1008dc079)
+
+
+---
+
+
 # INSTRUCTIONS...
 ## English
 
